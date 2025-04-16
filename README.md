@@ -21,8 +21,9 @@ This is a modern and interactive **Rock-Paper-Scissors** desktop game built usin
 ```bash
 git clone https://github.com/yourusername/rock-paper-scissors-game.git
 cd rock-paper-scissors-game
-## 🛠 How to Install
 ```
+## 🛠 How to Install
+
 1. Click on the `.zip` file in the repository (e.g., `RockPaperScissors.zip`)
 2. Click "Download"
 3. Extract the file on your PC
